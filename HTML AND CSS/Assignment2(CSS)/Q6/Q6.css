@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+.container {
+    margin: 20px 40px;
+    
+    width: fit-content;
+    padding: 20px;
+}
+
+.table {
+    padding: 10px;
+}
+
+table,
+td,
+th {
+    border-bottom: 1px ridge;
+    border-collapse: collapse;
+    border: 2px solid;
+    border-color:rgb(11, 231, 11);
+    
+}
+
+th {
+    font-weight: 700;
+    padding: 15px;
+    background-color:rgb(11, 231, 11);
+    color:white;
+}
+
+
+td {
+    padding: 10px;
+}
