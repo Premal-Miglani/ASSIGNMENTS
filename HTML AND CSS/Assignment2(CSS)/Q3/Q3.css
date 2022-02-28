@@ -1,0 +1,25 @@
+* {
+    margin: 0%;
+    font-weight: 100;
+}
+
+.container {
+    margin: 20px;
+    padding: 20px 0;
+    color: #080000;
+    background-color: rgb(168, 224, 247);
+    width: fit-content;
+}
+
+.content-1 {
+    padding: 20px 15px;
+}
+
+#heading1 {
+    text-transform: uppercase;
+}
+
+#heading2 {
+ 
+    text-transform: lowercase;
+}
