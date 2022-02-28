@@ -1,0 +1,35 @@
+* {
+    margin: 0%;
+    font-weight: 100;
+}
+
+.container {
+    margin: 20px;
+    padding: 20px 0;
+    color: black;
+    border: 2px solid black;
+}
+
+.content-1 {
+    padding: 20px 15px;
+    text-transform: capitalize;
+    background-color: rgb(91, 209, 245);
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#heading1 {
+    border: 5px solid;
+    margin: 10px;
+}
+
+#heading2 {
+    
+    border: 3px solid;
+    margin: 10px;
+}
+
+#heading3 {
+    margin: 10px;
+    border: 1px solid;
+}
