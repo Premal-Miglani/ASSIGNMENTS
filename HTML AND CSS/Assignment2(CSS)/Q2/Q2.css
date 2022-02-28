@@ -1,0 +1,26 @@
+* {
+    margin: 0%;
+    font-weight: 100;
+}
+
+.container {
+    margin: 20px;
+    padding: 20px 0;
+    color: #0c0101;
+    background-color: rgb(151, 209, 243);
+    width: fit-content;
+}
+
+.content-1 {
+    padding: 20px 15px;
+}
+
+
+#heading2 {
+    text-decoration-line: line-through;
+}
+
+#heading3 {
+    text-decoration-line: underline;
+}
+
