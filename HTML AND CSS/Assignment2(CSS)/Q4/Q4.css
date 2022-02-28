@@ -1,0 +1,17 @@
+* {
+    margin: 0%;
+}
+
+.container {
+    margin: 20px ;
+    background-color: rgb(182, 253, 255);
+    padding: 30px;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+    
+}
+
+a:visited {
+    color: rgba(255, 0, 0, 0.726);
+}
